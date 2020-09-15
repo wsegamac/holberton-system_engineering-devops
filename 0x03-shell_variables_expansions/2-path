@@ -1,1 +1,1 @@
-export PATH=$PATH":"/action"
+export PATH="/action":$PATH"
