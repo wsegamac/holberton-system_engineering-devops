@@ -1,3 +1,2 @@
 #!/bin/bash
-AUX=128
-echo $AUX + $TRUEKNOWLEDGE
+echo $((128 + $TRUEKNOWLEDGE))
